@@ -1,2 +1,3 @@
-# figures-2022-jpath
-Images &amp; code to visualize to illustrate the challenges image analysis in pathology
+# ReadMe
+
+This repository contains images &amp; code to help visualize to illustrate the challenges image analysis in pathology.
