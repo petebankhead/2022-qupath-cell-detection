@@ -37,7 +37,7 @@ This uses conventional image processing only (no machine learning).
 
 <img src="output/Default detection (319 cells).png" width=50% />
 
-## Purpose
+## Summary
 
 One purpose of this is to illustrate the similarities and differences between deep learning and conventional image processing for cell detection.
 

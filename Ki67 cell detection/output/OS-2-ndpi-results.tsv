@@ -1,0 +1,5 @@
+Name	Detection threshold	DAB threshold	Num cells	Positive %
+OS-2-ndpi	0.2	0.2	1323	16.5532879819
+OS-2-ndpi	0.2	0.5	1323	11.8669690098
+OS-2-ndpi	0.4	0.2	1066	20.5440900563
+OS-2-ndpi	0.4	0.5	1066	14.7279549719

@@ -1,0 +1,5 @@
+Name	Detection threshold	DAB threshold	Num cells	Positive %
+OS-2-vsi	0.2	0.2	1353	13.5254988914
+OS-2-vsi	0.2	0.5	1353	3.6954915004
+OS-2-vsi	0.4	0.2	763	23.9842726081
+OS-2-vsi	0.4	0.5	763	6.5530799476
