@@ -1,8 +1,8 @@
 # QuPath Cell Detection
 
 This repository contains images &amp; code to help visualize to illustrate the challenges image analysis in pathology, using the example of cell detection. This includes
-* [**H&E cell detection**](https://github.com/petebankhead/2022-qupath-cell-detection/blob/main/Ki67%20cell%20detection/README.md) - comparing QuPath's 'Cell Detection' & StarDist for a single image
-* [**Ki67 cell detection**](https://github.com/petebankhead/2022-qupath-cell-detection/blob/main/H%26E%20cell%20detection/README.md) - comparing QuPath's 'Positive Cell Detection' using two matched images from different scanners
+* [**H&E cell detection**](https://github.com/petebankhead/2022-qupath-cell-detection/blob/main/H%26E%20cell%20detection/README.md) - comparing QuPath's 'Cell Detection' & StarDist for a single image
+* [**Ki67 cell detection**](https://github.com/petebankhead/2022-qupath-cell-detection/blob/main/Ki67%20cell%20detection/README.md) - comparing QuPath's 'Positive Cell Detection' using two matched images from different scanners
 
 ## License
 
